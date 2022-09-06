@@ -5,7 +5,7 @@
   },
   "response": {
     "text": {
-      "template": "${now(\"yyyy-MM-dd\")}"
+      "template": "${now(\"yyyy-MM-dd HH:mm:ss:SSS\")} "
     }
   }
 },
